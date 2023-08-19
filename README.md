@@ -19,7 +19,7 @@ I'm a 3rd-year Computer Engineering student with a passion for AI and machine le
 
 ## Let's Connect!
 
-📫 Drop me an email at [your.email@example.com](mailto:Shivamthakur6888@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/shivam-thakur-59b79b254/). Let's chat about all things AI, ML, and the exciting world of data!
+📫 Drop me an email at [click here](mailto:Shivamthakur6888@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/shivam-thakur-59b79b254/). Let's chat about all things AI, ML, and the exciting world of data!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07shivamthakur&label=Profile%20views&color=0e75b6&style=flat" alt="07shivamthakur" /> </p>
 
