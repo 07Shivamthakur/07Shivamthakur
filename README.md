@@ -5,8 +5,8 @@ I'm a 3rd-year Computer Engineering student with a passion for AI and machine le
 ## Skills & Expertise
 
 - **Proficient:** Python, Excel, R
-- **Intermediate:** Java, SQL, XAMPP, MATLAB, Python (NumPy, pandas)
-- **Beginner:** Apache, TensorFlow, Azure, Firebase
+- **Intermediate:** Python(NumPy, pandas,Sklearn, ocv, seaborn,nltk), SQL, XAMPP, MATLAB, PowerBI
+- **Beginner:** Apache, TensorFlow, Azure, Firebase, Pytorch
 
 ## About Me
 
