@@ -1,6 +1,6 @@
 # Hey there, I'm Shivam! 👋
 <img align ="right" alt="AI Enthusiast" width="400" src="https://images.wsj.net/im-568211">
-I'm a 3rd-year Computer Engineering student with a passion for AI and machine learning. I love diving into new AI techniques, learning about cutting-edge advancements, and practicing data analytical skills daily.
+I'm a 4th-year Computer Engineering student with a passion for AI and machine learning. I love diving into new AI techniques, learning about cutting-edge advancements, and practicing data analytical skills daily.
 
 ## Skills & Expertise
 
